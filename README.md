@@ -23,7 +23,7 @@ We use git for version control.
 
 ### License
 
-This project is licensed under the GNU General Public License. For more details, see [License.txt](License.md).
+This project is licensed under the GNU General Public License. For more details, see [License.txt](License.txt).
 
 ### Acknowledgments
 
